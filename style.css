@@ -18,5 +18,10 @@
 .block,input,select,button{
     width: 80%;
 }
+.black{
+    border:2px solid black;
+    padding: 15px 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 
